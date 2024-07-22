@@ -1,2 +1,2 @@
 # test1
-ini adalah contoh
+*ini* adalah **contoh**
